@@ -13,7 +13,6 @@ CSE undergrad at JSS Academy of Technical Education, Noida — building toward b
 | **[FraudGuard](https://github.com/Swayam020/fraudguard)** | Real-time fraud detection API using Graph Attention Networks | Python · PyTorch Geometric · FastAPI · MongoDB · Docker | Rebuild of my published paper · deterministic pipeline · 14 unit tests · CI |
 | **[AuthCore](https://github.com/Swayam020/authcore)** | Standalone JWT authentication microservice | Java · Spring Boot · Redis · MySQL | Token issuance, refresh & revocation as a drop-in service |
 | **[SentinelAPI](https://github.com/Swayam020/sentinelapi)** | Anomaly Detection as a Service | Python · FastAPI · Isolation Forest · Redis | ML inference behind a clean REST interface |
-| **OrderFlow** | E-commerce order management backend | Java · Spring Boot | In development — link coming soon |
 
 ---
 
